@@ -4,4 +4,4 @@ ugame.exe@
 Baria.exe@
 astreus2.bin@
 harbi2.bin@
-NovaMetin2-Remastered-Launch.exe
+NovaMetin2-Remastered-Launch.exe@
