@@ -1,7 +1,7 @@
-metin2client
-metin2c
-ugame.exe
-Baria.exe
-astreus2.bin
-harbi2.bin
+metin2client@
+metin2c@
+ugame.exe@
+Baria.exe@
+astreus2.bin@
+harbi2.bin@
 NovaMetin2-Remastered-Launch.exe
