@@ -6,3 +6,5 @@ astreus2.bin@
 harbi2.bin@
 NovaMetin2-Remastered-Launch.exe@
 merlis_@
+merlisonline_@
+online_v@
