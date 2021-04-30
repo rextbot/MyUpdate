@@ -5,3 +5,4 @@ Baria.exe@
 astreus2.bin@
 harbi2.bin@
 NovaMetin2-Remastered-Launch.exe@
+merlis_online.bin@
