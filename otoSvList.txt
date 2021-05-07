@@ -11,3 +11,4 @@ online_v@
 dragon2clientv@
 dragon2clientv2@
 clientv3@
+lidya.bin@
