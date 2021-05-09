@@ -11,13 +11,5 @@ online_v@
 dragon2clientv@
 dragon2clientv2@
 clientv3@
-lidyav6.bin@
-lidyav7.bin@
-lidyav8.bin@
-lidyav9.bin@
-lidyav10.bin@
-lidyav11.bin@
-lidyav12.bin@
-lidyav13.bin@
-lidyav14.bin@
+lidya.bin@
 lidyav@
