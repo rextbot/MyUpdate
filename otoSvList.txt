@@ -8,11 +8,11 @@ NovaMetin2-Remastered-Launch.exe@
 merlis_@
 merlisonline_@
 online_v@
+dragon2client.bin@
 dragon2clientv@
 dragon2clientv2@
 clientv3@
 lidya.bin@
 lidyav@
 else2.bin@
-elsev2.bin@
-dragon2client.bin@
+elsev2.bin@ 
