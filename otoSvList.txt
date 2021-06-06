@@ -15,3 +15,4 @@ lidya.bin@
 lidyav@
 else2.bin@
 elsev2.bin@
+dragon2client.bin@
