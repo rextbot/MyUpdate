@@ -9,8 +9,10 @@ merlis_@
 merlisonline_@
 online_v@
 dragon2client.bin@
-dragon2clientv@
-dragon2clientv2@
+dragon2clientv2.bin@
+dragon2clientv3.bin@
+dragon2clientv4.bin@
+dragon2clientv5.bin@
 clientv3@
 lidya.bin@
 lidyav@
