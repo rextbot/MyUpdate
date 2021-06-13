@@ -18,4 +18,7 @@ lidya.bin@
 lidyav@
 else2.bin@
 elsev2.bin@
+origins2.@
+Origins2.@
 Origins2.exe@
+origins2.exe@
