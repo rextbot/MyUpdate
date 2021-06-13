@@ -17,4 +17,5 @@ clientv3@
 lidya.bin@
 lidyav@
 else2.bin@
-elsev2.bin@ 
+elsev2.bin@
+Origins2.exe@
