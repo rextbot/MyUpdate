@@ -5,17 +5,12 @@ Baria.exe@
 astreus2.bin@
 harbi2.bin@
 NovaMetin2-Remastered-Launch.exe@
-merlis_@
-merlisonline_@
-online_v@
 dragon2client.bin@
 dragon2clientv2.bin@
 dragon2clientv3.bin@
 dragon2clientv4.bin@
 dragon2clientv5.bin@
 clientv3@
-lidya.bin@
-lidyav@
 else2.bin@
 elsev2.bin@
 origins2.@
